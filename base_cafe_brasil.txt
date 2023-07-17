@@ -1,0 +1,1126 @@
+Marca,Região do Brasil,Tipo de Torra,Tipo de Preparo,Avaliação do Consumidor
+Café Brasileiro,Sul,Escura,Expresso,4.5
+Café Delícia,Nordeste,Clara,Filtro,4.2
+Café Aromático,Sudeste,Média,Cafeteira Italiana,4.8
+Café do Cerrado,Centro-Oeste,Escura,Espresso Martini,3.9
+Café Suave,Sul,Clara,Prensa Francesa,4.6
+Café Tradicional,Nordeste,Média,Coado,4.3
+Café Intenso,Sudeste,Escura,Moka,4.7
+Café Premium,Sul,Clara,Expresso,4.4
+Café Saboroso,Nordeste,Média,Cafeteira Italiana,4.5
+Café Puro,Sudeste,Escura,Prensa Francesa,4.1
+Café Suave,Sul,Clara,Coado,4.7
+Café Aveludado,Nordeste,Média,Moka,4.3
+Café Tradicional,Sudeste,Escura,Expresso,4.8
+Café Especial,Sul,Clara,Filtro,4.6
+Café Gourmet,Nordeste,Média,Cafeteira Italiana,4.4
+Café Delícia,Sudeste,Escura,Espresso Martini,4.2
+Café Suave,Sul,Clara,Prensa Francesa,4.9
+Café Aromático,Nordeste,Média,Coado,4.1
+Café Intenso,Sudeste,Escura,Moka,4.7
+Café Brasileiro,Centro-Oeste,Clara,Expresso,4.6
+Café do Cerrado,Sul,Média,Filtro,4.5
+Café Suave,Nordeste,Escura,Cafeteira Italiana,4.3
+Café Tradicional,Sudeste,Clara,Espresso Martini,4.2
+Café Premium,Sul,Média,Prensa Francesa,4.8
+Café Saboroso,Nordeste,Escura,Coado,4.6
+Café Puro,Sudeste,Clara,Moka,4.4
+Café Suave,Sul,Média,Expresso,4.7
+Café Aveludado,Nordeste,Escura,Filtro,4.3
+Café Tradicional,Sudeste,Clara,Cafeteira Italiana,4.8
+Café Gourmet,Sul,Média,Espresso Martini,4.6
+Café Delícia,Nordeste,Escura,Prensa Francesa,4.5
+Café Intenso,Sudeste,Clara,Coado,4.1
+Café Brasileiro,Sul,Média,Moka,4.9
+Café do Cerrado,Nordeste,Escura,Expresso,4.7
+Café Suave,Sudeste,Clara,Filtro,4.6
+Café Aromático,Sul,Média,Cafeteira Italiana,4.4
+Café Puro,Nordeste,Escura,Espresso Martini,4.2
+Café Tradicional,Sudeste,Clara,Prensa Francesa,4.8
+Café Premium,Sul,Média,Coado,4.6
+Café Saboroso,Nordeste,Escura,Moka,4.4
+Café Delícia,Sudeste,Clara,Expresso,4.7
+Café Suave,Sul,Média,Cafeteira Italiana,4.3
+Café Aveludado,Nordeste,Escura,Espresso Martini,4.8
+Café Intenso,Sudeste,Clara,Prensa Francesa,4.6
+Café Brasileiro,Sul,Média,Coado,4.5
+Café do Cerrado,Nordeste,Escura,Moka,4.1
+Café Suave,Sudeste,Clara,Expresso,4.9
+Café Aromático,Sul,Média,Filtro,4.7
+Café Puro,Nordeste,Escura,Cafeteira Italiana,4.6
+Café Tradicional,Sudeste,Clara,Espresso Martini,4.4
+Café Gourmet,Sul,Média,Prensa Francesa,4.8
+Café Delícia,Nordeste,Escura,Coado,4.6
+Café Suave,Sudeste,Clara,Moka,4.4
+Café Aveludado,Sul,Média,Expresso,4.7
+Café Intenso,Nordeste,Escura,Cafeteira Italiana,4.3
+Café Brasileiro,Sudeste,Clara,Espresso Martini,4.8
+Café do Cerrado,Sul,Média,Prensa Francesa,4.6
+Café Suave,Nordeste,Escura,Coado,4.5
+Café Aromático,Sudeste,Clara,Moka,4.1
+Café Tradicional,Sul,Média,Expresso,4.9
+Café Premium,Nordeste,Escura,Filtro,4.7
+Café Saboroso,Sudeste,Clara,Cafeteira Italiana,4.6
+Café Delícia,Sul,Média,Espresso Martini,4.4
+Café Suave,Nordeste,Escura,Prensa Francesa,4.8
+Café Puro,Sudeste,Clara,Coado,4.6
+Café Aveludado,Sul,Média,Moka,4.4
+Café Intenso,Nordeste,Escura,Expresso,4.7
+Café Brasileiro,Sudeste,Clara,Filtro,4.3
+Café do Cerrado,Sul,Média,Cafeteira Italiana,4.8
+Café Suave,Nordeste,Escura,Espresso Martini,4.6
+Café Aromático,Sudeste,Clara,Prensa Francesa,4.5
+Café Tradicional,Sul,Média,Coado,4.1
+Café Gourmet,Nordeste,Escura,Moka,4.9
+Café Delícia,Sudeste,Clara,Expresso,4.7
+Café Suave,Sul,Média,Cafeteira Italiana,4.6
+Café Puro,Nordeste,Escura,Espresso Martini,4.4
+Café Aveludado,Sudeste,Clara,Prensa Francesa,4.8
+Café Intenso,Sul,Média,Coado,4.6
+Café Brasileiro,Nordeste,Escura,Moka,4.3
+Café do Cerrado,Sudeste,Clara,Expresso,4.9
+Café Suave,Sul,Média,Filtro,4.7
+Café Aromático,Nordeste,Escura,Cafeteira Italiana,4.6
+Café Tradicional,Sudeste,Clara,Espresso Martini,4.4
+Café Premium,Sul,Média,Prensa Francesa,4.8
+Café Saboroso,Nordeste,Escura,Coado,4.6
+Café Delícia,Sudeste,Clara,Moka,4.4
+Café Suave,Sul,Média,Expresso,4.7
+Café Aveludado,Nordeste,Escura,Cafeteira Italiana,4.3
+Café Intenso,Sudeste,Clara,Espresso Martini,4.8
+Café Brasileiro,Sul,Média,Prensa Francesa,4.6
+Café do Cerrado,Nordeste,Escura,Coado,4.5
+Café Suave,Sudeste,Clara,Moka,4.1
+Café Aromático,Sul,Média,Expresso,4.9
+Café Puro,Nordeste,Escura,Filtro,4.7
+Café Tradicional,Sudeste,Clara,Cafeteira Italiana,4.6
+Café Gourmet,Sul,Média,Espresso Martini,4.4
+Café Delícia,Nordeste,Escura,Prensa Francesa,4.8
+Café Suave,Sudeste,Clara,Coado,4.6
+Café Aveludado,Sul,Média,Moka,4.4
+Café Intenso,Nordeste,Escura,Expresso,4.7
+Café Brasileiro,Sudeste,Clara,Cafeteira Italiana,4.3
+Café do Cerrado,Sul,Média,Espresso Martini,4.9
+Café Suave,Nordeste,Escura,Prensa Francesa,4.7
+Café Aromático,Sudeste,Clara,Coado,4.5
+Café Tradicional,Sul,Média,Moka,4.1
+Café Premium,Nordeste,Escura,Expresso,4.8
+Café Saboroso,Sudeste,Clara,Filtro,4.6
+Café Delícia,Sul,Média,Cafeteira Italiana,4.4
+Café Suave,Nordeste,Escura,Espresso Martini,4.9
+Café Puro,Sudeste,Clara,Prensa Francesa,4.7
+Café Aveludado,Nordeste,Média,Coado,4.6
+Café Intenso,Sudeste,Escura,Moka,4.4
+Café Brasileiro,Centro-Oeste,Clara,Expresso,4.7
+Café do Cerrado,Sul,Média,Filtro,4.3
+Café Suave,Nordeste,Escura,Cafeteira Italiana,4.8
+Café Tradicional,Sudeste,Clara,Espresso Martini,4.6
+Café Premium,Sul,Média,Prensa Francesa,4.5
+Café Saboroso,Nordeste,Escura,Coado,4.1
+Café Puro,Sudeste,Clara,Moka,4.9
+Café Suave,Sul,Média,Expresso,4.7
+Café Aveludado,Nordeste,Escura,Cafeteira Italiana,4.6
+Café Intenso,Sudeste,Clara,Espresso Martini,4.4
+Café Brasileiro,Sul,Média,Prensa Francesa,4.8
+Café do Cerrado,Nordeste,Escura,Coado,4.6
+Café Suave,Sudeste,Clara,Moka,4.4
+Café Aromático,Sul,Média,Expresso,4.7
+Café Puro,Nordeste,Escura,Filtro,4.3
+Café Tradicional,Sudeste,Clara,Cafeteira Italiana,4.8
+Café Gourmet,Sul,Média,Espresso Martini,4.6
+Café Delícia,Nordeste,Escura,Prensa Francesa,4.5
+Café Suave,Sudeste,Clara,Coado,4.1
+Café Aveludado,Sul,Média,Moka,4.9
+Café Intenso,Nordeste,Escura,Expresso,4.7
+Café Brasileiro,Sudeste,Clara,Cafeteira Italiana,4.6
+Café do Cerrado,Sul,Média,Espresso Martini,4.4
+Café Suave,Nordeste,Escura,Prensa Francesa,4.8
+Café Aromático,Sudeste,Clara,Coado,4.6
+Café Tradicional,Sul,Média,Moka,4.4
+Café Premium,Nordeste,Escura,Expresso,4.7
+Café Saboroso,Sudeste,Clara,Filtro,4.3
+Café Delícia,Sul,Média,Cafeteira Italiana,4.8
+Café Suave,Nordeste,Escura,Espresso Martini,4.6
+Café Puro,Sudeste,Clara,Prensa Francesa,4.5
+Café Aveludado,Nordeste,Média,Coado,4.1
+Café Intenso,Sudeste,Escura,Moka,4.9
+Café Brasileiro,Centro-Oeste,Clara,Expresso,4.7
+Café do Cerrado,Sul,Média,Filtro,4.6
+Café Suave,Nordeste,Escura,Cafeteira Italiana,4.4
+Café Tradicional,Sudeste,Clara,Espresso Martini,4.3
+Café Premium,Sul,Média,Prensa Francesa,4.8
+Café Saboroso,Nordeste,Escura,Coado,4.6
+Café Puro,Sudeste,Clara,Moka,4.5
+Café Suave,Sul,Média,Expresso,4.1
+Café Aveludado,Nordeste,Escura,Cafeteira Italiana,4.9
+Café Intenso,Sudeste,Clara,Espresso Martini,4.7
+Café Brasileiro,Sul,Média,Prensa Francesa,4.6
+Café do Cerrado,Nordeste,Escura,Coado,4.4
+Café Suave,Sudeste,Clara,Moka,4.3
+Café Aromático,Sul,Média,Expresso,4.8
+Café Puro,Nordeste,Escura,Filtro,4.6
+Café Tradicional,Sudeste,Clara,Cafeteira Italiana,4.5
+Café Gourmet,Sul,Média,Espresso Martini,4.1
+Café Delícia,Nordeste,Escura,Prensa Francesa,4.9
+Café Suave,Sudeste,Clara,Coado,4.7
+Café Aveludado,Sul,Média,Moka,4.6
+Café Intenso,Nordeste,Escura,Expresso,4.4
+Café Brasileiro,Sudeste,Clara,Cafeteira Italiana,4.3
+Café do Cerrado,Sul,Média,Espresso Martini,4.8
+Café Suave,Nordeste,Escura,Prensa Francesa,4.6
+Café Aromático,Sudeste,Clara,Coado,4.5
+Café Tradicional,Sul,Média,Moka,4.1
+Café Premium,Nordeste,Escura,Expresso,4.9
+Café Saboroso,Sudeste,Clara,Filtro,4.7
+Café Delícia,Sul,Média,Cafeteira Italiana,4.6
+Café Suave,Nordeste,Escura,Espresso Martini,4.4
+Café Puro,Sudeste,Clara,Prensa Francesa,4.8
+Café Aveludado,Nordeste,Média,Coado,4.6
+Café Intenso,Sudeste,Escura,Moka,4.4
+Café Brasileiro,Centro-Oeste,Clara,Expresso,4.9
+Café do Cerrado,Sul,Média,Filtro,4.7
+Café Suave,Nordeste,Escura,Cafeteira Italiana,4.6
+Café Tradicional,Sudeste,Clara,Espresso Martini,4.4
+Café Premium,Sul,Média,Prensa Francesa,4.8
+Café Saboroso,Nordeste,Escura,Coado,4.6
+Café Puro,Sudeste,Clara,Moka,4.4
+Café Suave,Sul,Média,Expresso,4.7
+Café Aveludado,Nordeste,Escura,Cafeteira Italiana,4.3
+Café Intenso,Sudeste,Clara,Espresso Martini,4.8
+Café Brasileiro,Sul,Média,Prensa Francesa,4.6
+Café do Cerrado,Nordeste,Escura,Coado,4.5
+Café Suave,Sudeste,Clara,Moka,4.1
+Café Aromático,Sul,Média,Expresso,4.9
+Café Puro,Nordeste,Escura,Filtro,4.7
+Café Tradicional,Sudeste,Clara,Cafeteira Italiana,4.6
+Café Gourmet,Sul,Média,Espresso Martini,4.4
+Café Delícia,Nordeste,Escura,Prensa Francesa,4.8
+Café Suave,Sudeste,Clara,Coado,4.6
+Café Aveludado,Sul,Média,Moka,4.4
+Café Intenso,Nordeste,Escura,Expresso,4.7
+Café Brasileiro,Sudeste,Clara,Cafeteira Italiana,4.3
+Café do Cerrado,Sul,Média,Espresso Martini,4.9
+Café Suave,Nordeste,Escura,Prensa Francesa,4.7
+Café Aromático,Sudeste,Clara,Coado,4.5
+Café Tradicional,Sul,Média,Moka,4.1
+Café Premium,Nordeste,Escura,Expresso,4.8
+Café Saboroso,Sudeste,Clara,Filtro,4.6
+Café Delícia,Sul,Média,Cafeteira Italiana,4.4
+Café Suave,Nordeste,Escura,Espresso Martini,4.9
+Café Puro,Sudeste,Clara,Prensa Francesa,4.7
+Café Aveludado,Nordeste,Média,Coado,4.6
+Café Intenso,Sudeste,Escura,Moka,4.4
+Café Brasileiro,Centro-Oeste,Clara,Expresso,4.7
+Café do Cerrado,Sul,Média,Filtro,4.3
+Café Suave,Nordeste,Escura,Cafeteira Italiana,4.8
+Café Tradicional,Sudeste,Clara,Espresso Martini,4.6
+Café Premium,Sul,Média,Prensa Francesa,4.5
+Café Saboroso,Nordeste,Escura,Coado,4.1
+Café Puro,Sudeste,Clara,Moka,4.9
+Café Suave,Sul,Média,Expresso,4.7
+Café Aveludado,Nordeste,Escura,Cafeteira Italiana,4.6
+Café Intenso,Sudeste,Clara,Espresso Martini,4.4
+Café Brasileiro,Sul,Média,Prensa Francesa,4.8
+Café do Cerrado,Nordeste,Escura,Coado,4.6
+Café Suave,Sudeste,Clara,Moka,4.4
+Café Aromático,Sul,Média,Expresso,4.7
+Café Puro,Nordeste,Escura,Filtro,4.3
+Café Tradicional,Sudeste,Clara,Cafeteira Italiana,4.8
+Café Gourmet,Sul,Média,Espresso Martini,4.6
+Café Delícia,Nordeste,Escura,Prensa Francesa,4.5
+Café Suave,Sudeste,Clara,Coado,4.1
+Café Aveludado,Sul,Média,Moka,4.9
+Café Intenso,Nordeste,Escura,Expresso,4.7
+Café Brasileiro,Sudeste,Clara,Cafeteira Italiana,4.6
+Café do Cerrado,Sul,Média,Espresso Martini,4.4
+Café Suave,Nordeste,Escura,Prensa Francesa,4.8
+Café Aromático,Sudeste,Clara,Coado,4.6
+Café Tradicional,Sul,Média,Moka,4.4
+Café Premium,Nordeste,Escura,Expresso,4.7
+Café Saboroso,Sudeste,Clara,Filtro,4.3
+Café Delícia,Sul,Média,Cafeteira Italiana,4.8
+Café Suave,Nordeste,Escura,Espresso Martini,4.6
+Café Puro,Sudeste,Clara,Prensa Francesa,4.5
+Café Aveludado,Nordeste,Média,Coado,4.1
+Café Intenso,Sudeste,Escura,Moka,4.9
+Café Brasileiro,Centro-Oeste,Clara,Expresso,4.7
+Café do Cerrado,Sul,Média,Filtro,4.6
+Café Suave,Nordeste,Escura,Cafeteira Italiana,4.4
+Café Tradicional,Sudeste,Clara,Espresso Martini,4.2
+Café Premium,Sul,Média,Prensa Francesa,4.8
+Café Saboroso,Nordeste,Escura,Coado,4.6
+Café Puro,Sudeste,Clara,Moka,4.4
+Café Suave,Sul,Média,Expresso,4.7
+Café Aveludado,Nordeste,Escura,Cafeteira Italiana,4.3
+Café Intenso,Sudeste,Clara,Espresso Martini,4.8
+Café Brasileiro,Sul,Média,Prensa Francesa,4.6
+Café do Cerrado,Nordeste,Escura,Coado,4.5
+Café Suave,Sudeste,Clara,Moka,4.1
+Café Aromático,Sul,Média,Expresso,4.9
+Café Puro,Nordeste,Escura,Filtro,4.7
+Café Tradicional,Sudeste,Clara,Cafeteira Italiana,4.6
+Café Gourmet,Sul,Média,Espresso Martini,4.4
+Café Delícia,Nordeste,Escura,Prensa Francesa,4.8
+Café Suave,Sudeste,Clara,Coado,4.6
+Café Aveludado,Sul,Média,Moka,4.4
+Café Intenso,Nordeste,Escura,Expresso,4.7
+Café Brasileiro,Sudeste,Clara,Cafeteira Italiana,4.3
+Café do Cerrado,Sul,Média,Espresso Martini,4.9
+Café Suave,Nordeste,Escura,Prensa Francesa,4.7
+Café Aromático,Sudeste,Clara,Coado,4.5
+Café Tradicional,Sul,Média,Moka,4.1
+Café Premium,Nordeste,Escura,Expresso,4.8
+Café Saboroso,Sudeste,Clara,Filtro,4.6
+Café Delícia,Sul,Média,Cafeteira Italiana,4.4
+Café Suave,Nordeste,Escura,Espresso Martini,4.9
+Café Puro,Sudeste,Clara,Prensa Francesa,4.7
+Café Aveludado,Nordeste,Média,Coado,4.6
+Café Intenso,Sudeste,Escura,Moka,4.4
+Café Brasileiro,Centro-Oeste,Clara,Expresso,4.7
+Café do Cerrado,Sul,Média,Filtro,4.3
+Café Suave,Nordeste,Escura,Cafeteira Italiana,4.8
+Café Tradicional,Sudeste,Clara,Espresso Martini,4.6
+Café Premium,Sul,Média,Prensa Francesa,4.5
+Café Saboroso,Nordeste,Escura,Coado,4.1
+Café Puro,Sudeste,Clara,Moka,4.9
+Café Suave,Sul,Média,Expresso,4.7
+Café Aveludado,Nordeste,Escura,Cafeteira Italiana,4.6
+Café Intenso,Sudeste,Clara,Espresso Martini,4.4
+Café Brasileiro,Sul,Média,Prensa Francesa,4.8
+Café do Cerrado,Nordeste,Escura,Coado,4.6
+Café Suave,Sudeste,Clara,Moka,4.4
+Café Aromático,Sul,Média,Expresso,4.7
+Café Puro,Nordeste,Escura,Filtro,4.3
+Café Tradicional,Sudeste,Clara,Cafeteira Italiana,4.8
+Café Gourmet,Sul,Média,Espresso Martini,4.6
+Café Delícia,Nordeste,Escura,Prensa Francesa,4.5
+Café Suave,Sudeste,Clara,Coado,4.1
+Café Aveludado,Sul,Média,Moka,4.9
+Café Intenso,Nordeste,Escura,Expresso,4.7
+Café Brasileiro,Sudeste,Clara,Cafeteira Italiana,4.6
+Café do Cerrado,Sul,Média,Espresso Martini,4.4
+Café Suave,Nordeste,Escura,Prensa Francesa,4.8
+Café Aromático,Sudeste,Clara,Coado,4.6
+Café Tradicional,Sul,Média,Moka,4.4
+Café Premium,Nordeste,Escura,Expresso,4.7
+Café Saboroso,Sudeste,Clara,Filtro,4.3
+Café Delícia,Sul,Média,Cafeteira Italiana,4.8
+Café Suave,Nordeste,Escura,Espresso Martini,4.6
+Café Puro,Sudeste,Clara,Prensa Francesa,4.5
+Café Aveludado,Nordeste,Média,Coado,4.1
+Café Intenso,Sudeste,Escura,Moka,4.9
+Café Brasileiro,Centro-Oeste,Clara,Expresso,4.7
+Café do Cerrado,Sul,Média,Filtro,4.6
+Café Suave,Nordeste,Escura,Cafeteira Italiana,4.4
+Café Tradicional,Sudeste,Clara,Espresso Martini,4.2
+Café Premium,Sul,Média,Prensa Francesa,4.8
+Café Saboroso,Nordeste,Escura,Coado,4.6
+Café Puro,Sudeste,Clara,Moka,4.4
+Café Suave,Sul,Média,Expresso,4.7
+Café Aveludado,Nordeste,Escura,Cafeteira Italiana,4.3
+Café Intenso,Sudeste,Clara,Espresso Martini,4.8
+Café Brasileiro,Sul,Média,Prensa Francesa,4.6
+Café do Cerrado,Nordeste,Escura,Coado,4.5
+Café Suave,Sudeste,Clara,Moka,4.1
+Café Aromático,Sul,Média,Expresso,4.9
+Café Puro,Nordeste,Escura,Filtro,4.7
+Café Tradicional,Sudeste,Clara,Cafeteira Italiana,4.8
+Café Gourmet,Sul,Média,Espresso Martini,4.6
+Café Delícia,Nordeste,Escura,Prensa Francesa,4.5
+Café Suave,Sudeste,Clara,Coado,4.1
+Café Aveludado,Sul,Média,Moka,4.9
+Café Intenso,Nordeste,Escura,Expresso,4.7
+Café Brasileiro,Sudeste,Clara,Cafeteira Italiana,4.6
+Café do Cerrado,Sul,Média,Espresso Martini,4.4
+Café Suave,Nordeste,Escura,Prensa Francesa,4.8
+Café Aromático,Sudeste,Clara,Coado,4.6
+Café Tradicional,Sul,Média,Moka,4.4
+Café Premium,Nordeste,Escura,Expresso,4.7
+Café Saboroso,Sudeste,Clara,Filtro,4.3
+Café Delícia,Sul,Média,Cafeteira Italiana,4.8
+Café Suave,Nordeste,Escura,Espresso Martini,4.6
+Café Puro,Sudeste,Clara,Prensa Francesa,4.5
+Café Aveludado,Nordeste,Média,Coado,4.1
+Café Intenso,Sudeste,Escura,Moka,4.9
+Café Brasileiro,Centro-Oeste,Clara,Expresso,4.7
+Café do Cerrado,Sul,Média,Filtro,4.6
+Café Suave,Nordeste,Escura,Cafeteira Italiana,4.4
+Café Tradicional,Sudeste,Clara,Espresso Martini,4.2
+Café Premium,Sul,Média,Prensa Francesa,4.8
+Café Saboroso,Nordeste,Escura,Coado,4.6
+Café Puro,Sudeste,Clara,Moka,4.4
+Café Suave,Sul,Média,Expresso,4.7
+Café Aveludado,Nordeste,Escura,Cafeteira Italiana,4.3
+Café Intenso,Sudeste,Clara,Espresso Martini,4.8
+Café Brasileiro,Sul,Média,Prensa Francesa,4.6
+Café do Cerrado,Nordeste,Escura,Coado,4.5
+Café Suave,Sudeste,Clara,Moka,4.1
+Café Aromático,Sul,Média,Expresso,4.9
+Café Puro,Nordeste,Escura,Filtro,4.7
+Café Tradicional,Sudeste,Clara,Cafeteira Italiana,4.8
+Café Gourmet,Sul,Média,Espresso Martini,4.6
+Café Delícia,Nordeste,Escura,Prensa Francesa,4.5
+Café Suave,Sudeste,Clara,Coado,4.1
+Café Aveludado,Sul,Média,Moka,4.9
+Café Intenso,Nordeste,Escura,Expresso,4.7
+Café Brasileiro,Sudeste,Clara,Cafeteira Italiana,4.6
+Café do Cerrado,Sul,Média,Espresso Martini,4.4
+Café Suave,Nordeste,Escura,Prensa Francesa,4.8
+Café Aromático,Sudeste,Clara,Coado,4.6
+Café Tradicional,Sul,Média,Moka,4.4
+Café Premium,Nordeste,Escura,Expresso,4.7
+Café Saboroso,Sudeste,Clara,Filtro,4.3
+Café Delícia,Sul,Média,Cafeteira Italiana,4.8
+Café Suave,Nordeste,Escura,Espresso Martini,4.6
+Café Puro,Sudeste,Clara,Prensa Francesa,4.5
+Café Aveludado,Nordeste,Média,Coado,4.1
+Café Intenso,Sudeste,Escura,Moka,4.9
+Café Brasileiro,Centro-Oeste,Clara,Expresso,4.7
+Café do Cerrado,Sul,Média,Filtro,4.6
+Café Suave,Nordeste,Escura,Cafeteira Italiana,4.4
+Café Tradicional,Sudeste,Clara,Espresso Martini,4.2
+Café Premium,Sul,Média,Prensa Francesa,4.8
+Café Saboroso,Nordeste,Escura,Coado,4.6
+Café Puro,Sudeste,Clara,Moka,4.4
+Café Suave,Sul,Média,Expresso,4.7
+Café Aveludado,Nordeste,Escura,Cafeteira Italiana,4.3
+Café Intenso,Sudeste,Clara,Espresso Martini,4.8
+Café Brasileiro,Sul,Média,Prensa Francesa,4.6
+Café do Cerrado,Nordeste,Escura,Coado,4.5
+Café Suave,Sudeste,Clara,Moka,4.1
+Café Aromático,Sul,Média,Expresso,4.9
+Café Puro,Nordeste,Escura,Filtro,4.7
+Café Tradicional,Sudeste,Clara,Cafeteira Italiana,4.8
+Café Gourmet,Sul,Média,Espresso Martini,4.6
+Café Delícia,Nordeste,Escura,Prensa Francesa,4.5
+Café Suave,Sudeste,Clara,Coado,4.1
+Café Aveludado,Sul,Média,Moka,4.9
+Café Intenso,Nordeste,Escura,Expresso,4.7
+Café Brasileiro,Sudeste,Clara,Cafeteira Italiana,4.6
+Café do Cerrado,Sul,Média,Espresso Martini,4.4
+Café Suave,Nordeste,Escura,Prensa Francesa,4.8
+Café Aromático,Sudeste,Clara,Coado,4.6
+Café Tradicional,Sul,Média,Moka,4.4
+Café Premium,Nordeste,Escura,Expresso,4.7
+Café Saboroso,Sudeste,Clara,Filtro,4.3
+Café Delícia,Sul,Média,Cafeteira Italiana,4.8
+Café Suave,Nordeste,Escura,Espresso Martini,4.6
+Café Puro,Sudeste,Clara,Prensa Francesa,4.5
+Café Aveludado,Nordeste,Média,Coado,4.1
+Café Intenso,Sudeste,Escura,Moka,4.9
+Café Brasileiro,Centro-Oeste,Clara,Expresso,4.7
+Café do Cerrado,Sul,Média,Filtro,4.6
+Café Suave,Nordeste,Escura,Cafeteira Italiana,4.4
+Café Tradicional,Sudeste,Clara,Espresso Martini,4.2
+Café Premium,Sul,Média,Prensa Francesa,4.8
+Café Saboroso,Nordeste,Escura,Coado,4.6
+Café Puro,Sudeste,Clara,Moka,4.4
+Café Suave,Sul,Média,Expresso,4.7
+Café Aveludado,Nordeste,Escura,Cafeteira Italiana,4.3
+Café Intenso,Sudeste,Clara,Espresso Martini,4.8
+Café Brasileiro,Sul,Média,Prensa Francesa,4.6
+Café do Cerrado,Nordeste,Escura,Coado,4.5
+Café Suave,Sudeste,Clara,Moka,4.1
+Café Aromático,Sul,Média,Expresso,4.9
+Café Puro,Nordeste,Escura,Filtro,4.7
+Café Tradicional,Sudeste,Clara,Cafeteira Italiana,4.8
+Café Gourmet,Sul,Média,Espresso Martini,4.6
+Café Delícia,Nordeste,Escura,Prensa Francesa,4.5
+Café Suave,Sudeste,Clara,Coado,4.1
+Café Aveludado,Sul,Média,Moka,4.9
+Café Intenso,Nordeste,Escura,Expresso,4.7
+Café Brasileiro,Sudeste,Clara,Cafeteira Italiana,4.6
+Café do Cerrado,Sul,Média,Espresso Martini,4.4
+Café Suave,Nordeste,Escura,Prensa Francesa,4.8
+Café Aromático,Sudeste,Clara,Coado,4.6
+Café Tradicional,Sul,Média,Moka,4.4
+Café Premium,Nordeste,Escura,Expresso,4.7
+Café Saboroso,Sudeste,Clara,Filtro,4.3
+Café Delícia,Sul,Média,Cafeteira Italiana,4.8
+Café Suave,Nordeste,Escura,Espresso Martini,4.6
+Café Puro,Sudeste,Clara,Prensa Francesa,4.5
+Café Aveludado,Nordeste,Média,Coado,4.1
+Café Intenso,Sudeste,Escura,Moka,4.9
+Café Brasileiro,Centro-Oeste,Clara,Expresso,4.7
+Café do Cerrado,Sul,Média,Filtro,4.6
+Café Suave,Nordeste,Escura,Cafeteira Italiana,4.4
+Café Tradicional,Sudeste,Clara,Espresso Martini,4.2
+Café Premium,Sul,Média,Prensa Francesa,4.8
+Café Saboroso,Nordeste,Escura,Coado,4.6
+Café Puro,Sudeste,Clara,Moka,4.4
+Café Suave,Sul,Média,Expresso,4.7
+Café Aveludado,Nordeste,Escura,Cafeteira Italiana,4.3
+Café Intenso,Sudeste,Clara,Espresso Martini,4.8
+Café Brasileiro,Sul,Média,Prensa Francesa,4.6
+Café do Cerrado,Nordeste,Escura,Coado,4.5
+Café Suave,Sudeste,Clara,Moka,4.1
+Café Aromático,Sul,Média,Expresso,4.9
+Café Puro,Nordeste,Escura,Filtro,4.7
+Café Tradicional,Sudeste,Clara,Cafeteira Italiana,4.8
+Café Gourmet,Sul,Média,Espresso Martini,4.6
+Café Delícia,Nordeste,Escura,Prensa Francesa,4.5
+Café Suave,Sudeste,Clara,Coado,4.1
+Café Aveludado,Sul,Média,Moka,4.9
+Café Intenso,Nordeste,Escura,Expresso,4.7
+Café Brasileiro,Sudeste,Clara,Cafeteira Italiana,4.6
+Café do Cerrado,Sul,Média,Espresso Martini,4.4
+Café Suave,Nordeste,Escura,Prensa Francesa,4.8
+Café Aromático,Sudeste,Clara,Coado,4.6
+Café Tradicional,Sul,Média,Moka,4.4
+Café Premium,Nordeste,Escura,Expresso,4.7
+Café Saboroso,Sudeste,Clara,Filtro,4.3
+Café Delícia,Sul,Média,Cafeteira Italiana,4.8
+Café Suave,Nordeste,Escura,Espresso Martini,4.6
+Café Puro,Sudeste,Clara,Prensa Francesa,4.5
+Café Aveludado,Nordeste,Média,Coado,4.1
+Café Intenso,Sudeste,Escura,Moka,4.9
+Café Brasileiro,Centro-Oeste,Clara,Expresso,4.7
+Café do Cerrado,Sul,Média,Filtro,4.6
+Café Suave,Nordeste,Escura,Cafeteira Italiana,4.4
+Café Tradicional,Sudeste,Clara,Espresso Martini,4.2
+Café Premium,Sul,Média,Prensa Francesa,4.8
+Café Saboroso,Nordeste,Escura,Coado,4.6
+Café Puro,Sudeste,Clara,Moka,4.4
+Café Suave,Sul,Média,Expresso,4.7
+Café Aveludado,Nordeste,Escura,Cafeteira Italiana,4.3
+Café Intenso,Sudeste,Clara,Espresso Martini,4.8
+Café Brasileiro,Sul,Média,Prensa Francesa,4.6
+Café do Cerrado,Nordeste,Escura,Coado,4.5
+Café Suave,Sudeste,Clara,Moka,4.1
+Café Aromático,Sul,Média,Expresso,4.9
+Café Puro,Nordeste,Escura,Filtro,4.7
+Café Tradicional,Sudeste,Clara,Cafeteira Italiana,4.8
+Café Gourmet,Sul,Média,Espresso Martini,4.6
+Café Delícia,Nordeste,Escura,Prensa Francesa,4.5
+Café Suave,Sudeste,Clara,Coado,4.1
+Café Aveludado,Sul,Média,Moka,4.9
+Café Intenso,Nordeste,Escura,Expresso,4.7
+Café Brasileiro,Sudeste,Clara,Cafeteira Italiana,4.6
+Café do Cerrado,Sul,Média,Espresso Martini,4.4
+Café Suave,Nordeste,Escura,Prensa Francesa,4.8
+Café Aromático,Sudeste,Clara,Coado,4.6
+Café Tradicional,Sul,Média,Moka,4.4
+Café Premium,Nordeste,Escura,Expresso,4.7
+Café Saboroso,Sudeste,Clara,Filtro,4.3
+Café Delícia,Sul,Média,Cafeteira Italiana,4.8
+Café Suave,Nordeste,Escura,Espresso Martini,4.6
+Café Puro,Sudeste,Clara,Prensa Francesa,4.5
+Café Aveludado,Nordeste,Média,Coado,4.1
+Café Intenso,Sudeste,Escura,Moka,4.9
+Café Brasileiro,Centro-Oeste,Clara,Expresso,4.7
+Café do Cerrado,Sul,Média,Filtro,4.6
+Café Suave,Nordeste,Escura,Cafeteira Italiana,4.4
+Café Tradicional,Sudeste,Clara,Espresso Martini,4.2
+Café Premium,Sul,Média,Prensa Francesa,4.8
+Café Saboroso,Nordeste,Escura,Coado,4.6
+Café Puro,Sudeste,Clara,Moka,4.4
+Café Suave,Sul,Média,Expresso,4.7
+Café Aveludado,Nordeste,Escura,Cafeteira Italiana,4.3
+Café Intenso,Sudeste,Clara,Espresso Martini,4.8
+Café Brasileiro,Sul,Média,Prensa Francesa,4.6
+Café do Cerrado,Nordeste,Escura,Coado,4.5
+Café Suave,Sudeste,Clara,Moka,4.1
+Café Aromático,Sul,Média,Expresso,4.9
+Café Puro,Nordeste,Escura,Filtro,4.7
+Café Tradicional,Sudeste,Clara,Cafeteira Italiana,4.8
+Café Gourmet,Sul,Média,Espresso Martini,4.6
+Café Delícia,Nordeste,Escura,Prensa Francesa,4.5
+Café Suave,Sudeste,Clara,Coado,4.1
+Café Aveludado,Sul,Média,Moka,4.9
+Café Intenso,Nordeste,Escura,Expresso,4.7
+Café Brasileiro,Sudeste,Clara,Cafeteira Italiana,4.6
+Café do Cerrado,Sul,Média,Espresso Martini,4.4
+Café Suave,Nordeste,Escura,Prensa Francesa,4.8
+Café Aromático,Sudeste,Clara,Coado,4.6
+Café Tradicional,Sul,Média,Moka,4.4
+Café Premium,Nordeste,Escura,Expresso,4.7
+Café Saboroso,Sudeste,Clara,Filtro,4.3
+Café Delícia,Sul,Média,Cafeteira Italiana,4.8
+Café Suave,Nordeste,Escura,Espresso Martini,4.6
+Café Puro,Sudeste,Clara,Prensa Francesa,4.5
+Café Aveludado,Nordeste,Média,Coado,4.1
+Café Intenso,Sudeste,Escura,Moka,4.9
+Café Brasileiro,Centro-Oeste,Clara,Expresso,4.7
+Café do Cerrado,Sul,Média,Filtro,4.6
+Café Suave,Nordeste,Escura,Cafeteira Italiana,4.4
+Café Tradicional,Sudeste,Clara,Espresso Martini,4.2
+Café Premium,Sul,Média,Prensa Francesa,4.8
+Café Saboroso,Nordeste,Escura,Coado,4.6
+Café Puro,Sudeste,Clara,Moka,4.4
+Café Suave,Sul,Média,Expresso,4.7
+Café Aveludado,Nordeste,Escura,Cafeteira Italiana,4.3
+Café Intenso,Sudeste,Clara,Espresso Martini,4.8
+Café Brasileiro,Sul,Média,Prensa Francesa,4.6
+Café do Cerrado,Nordeste,Escura,Coado,4.5
+Café Suave,Sudeste,Clara,Moka,4.1
+Café Aromático,Sul,Média,Expresso,4.9
+Café Puro,Nordeste,Escura,Filtro,4.7
+Café Tradicional,Sudeste,Clara,Cafeteira Italiana,4.8
+Café Gourmet,Sul,Média,Espresso Martini,4.6
+Café Delícia,Nordeste,Escura,Prensa Francesa,4.5
+Café Suave,Sudeste,Clara,Coado,4.1
+Café Aveludado,Sul,Média,Moka,4.9
+Café Intenso,Nordeste,Escura,Expresso,4.7
+Café Brasileiro,Sudeste,Clara,Cafeteira Italiana,4.6
+Café do Cerrado,Sul,Média,Espresso Martini,4.4
+Café Suave,Nordeste,Escura,Prensa Francesa,4.8
+Café Aromático,Sudeste,Clara,Coado,4.6
+Café Tradicional,Sul,Média,Moka,4.4
+Café Premium,Nordeste,Escura,Expresso,4.7
+Café Saboroso,Sudeste,Clara,Filtro,4.3
+Café Delícia,Sul,Média,Cafeteira Italiana,4.8
+Café Suave,Nordeste,Escura,Espresso Martini,4.6
+Café Puro,Sudeste,Clara,Prensa Francesa,4.5
+Café Aveludado,Nordeste,Média,Coado,4.1
+Café Intenso,Sudeste,Escura,Moka,4.9
+Café Brasileiro,Centro-Oeste,Clara,Expresso,4.7
+Café do Cerrado,Sul,Média,Filtro,4.6
+Café Suave,Nordeste,Escura,Cafeteira Italiana,4.4
+Café Tradicional,Sudeste,Clara,Espresso Martini,4.2
+Café Premium,Sul,Média,Prensa Francesa,4.8
+Café Saboroso,Nordeste,Escura,Coado,4.6
+Café Puro,Sudeste,Clara,Moka,4.4
+Café Suave,Sul,Média,Expresso,4.7
+Café Aveludado,Nordeste,Escura,Cafeteira Italiana,4.3
+Café Intenso,Sudeste,Clara,Espresso Martini,4.8
+Café Brasileiro,Sul,Média,Prensa Francesa,4.6
+Café do Cerrado,Nordeste,Escura,Coado,4.5
+Café Suave,Sudeste,Clara,Moka,4.1
+Café Aromático,Sul,Média,Expresso,4.9
+Café Puro,Nordeste,Escura,Filtro,4.7
+Café Tradicional,Sudeste,Clara,Cafeteira Italiana,4.8
+Café Gourmet,Sul,Média,Espresso Martini,4.6
+Café Delícia,Nordeste,Escura,Prensa Francesa,4.5
+Café Suave,Sudeste,Clara,Coado,4.1
+Café Aveludado,Sul,Média,Moka,4.9
+Café Intenso,Nordeste,Escura,Expresso,4.7
+Café Brasileiro,Sudeste,Clara,Cafeteira Italiana,4.6
+Café do Cerrado,Sul,Média,Espresso Martini,4.4
+Café Suave,Nordeste,Escura,Prensa Francesa,4.8
+Café Aromático,Sudeste,Clara,Coado,4.6
+Café Tradicional,Sul,Média,Moka,4.4
+Café Premium,Nordeste,Escura,Expresso,4.7
+Café Saboroso,Sudeste,Clara,Filtro,4.3
+Café Delícia,Sul,Média,Cafeteira Italiana,4.8
+Café Suave,Nordeste,Escura,Espresso Martini,4.6
+Café Puro,Sudeste,Clara,Prensa Francesa,4.5
+Café Aveludado,Nordeste,Média,Coado,4.1
+Café Intenso,Sudeste,Escura,Moka,4.9
+Café Brasileiro,Centro-Oeste,Clara,Expresso,4.7
+Café do Cerrado,Sul,Média,Filtro,4.6
+Café Suave,Nordeste,Escura,Cafeteira Italiana,4.4
+Café Tradicional,Sudeste,Clara,Espresso Martini,4.2
+Café Premium,Sul,Média,Prensa Francesa,4.8
+Café Saboroso,Nordeste,Escura,Coado,4.6
+Café Puro,Sudeste,Clara,Moka,4.4
+Café Suave,Sul,Média,Expresso,4.7
+Café Aveludado,Nordeste,Escura,Cafeteira Italiana,4.3
+Café Intenso,Sudeste,Clara,Espresso Martini,4.8
+Café Brasileiro,Sul,Média,Prensa Francesa,4.6
+Café do Cerrado,Nordeste,Escura,Coado,4.5
+Café Suave,Sudeste,Clara,Moka,4.1
+Café Aromático,Sul,Média,Expresso,4.9
+Café Puro,Nordeste,Escura,Filtro,4.7
+Café Tradicional,Sudeste,Clara,Cafeteira Italiana,4.8
+Café Gourmet,Sul,Média,Espresso Martini,4.6
+Café Delícia,Nordeste,Escura,Prensa Francesa,4.5
+Café Suave,Sudeste,Clara,Coado,4.1
+Café Aveludado,Sul,Média,Moka,4.9
+Café Intenso,Nordeste,Escura,Expresso,4.7
+Café Brasileiro,Sudeste,Clara,Cafeteira Italiana,4.6
+Café do Cerrado,Sul,Média,Espresso Martini,4.4
+Café Suave,Nordeste,Escura,Prensa Francesa,4.8
+Café Aromático,Sudeste,Clara,Coado,4.6
+Café Tradicional,Sul,Média,Moka,4.4
+Café Premium,Nordeste,Escura,Expresso,4.7
+Café Saboroso,Sudeste,Clara,Filtro,4.3
+Café Delícia,Sul,Média,Cafeteira Italiana,4.8
+Café Suave,Nordeste,Escura,Espresso Martini,4.6
+Café Puro,Sudeste,Clara,Prensa Francesa,4.5
+Café Aveludado,Nordeste,Média,Coado,4.1
+Café Intenso,Sudeste,Escura,Moka,4.9
+Café Brasileiro,Centro-Oeste,Clara,Expresso,4.7
+Café do Cerrado,Sul,Média,Filtro,4.6
+Café Suave,Nordeste,Escura,Cafeteira Italiana,4.4
+Café Tradicional,Sudeste,Clara,Espresso Martini,4.2
+Café Premium,Sul,Média,Prensa Francesa,4.8
+Café Saboroso,Nordeste,Escura,Coado,4.6
+Café Puro,Sudeste,Clara,Moka,4.4
+Café Suave,Sul,Média,Expresso,4.7
+Café Aveludado,Nordeste,Escura,Cafeteira Italiana,4.3
+Café Intenso,Sudeste,Clara,Espresso Martini,4.8
+Café Brasileiro,Sul,Média,Prensa Francesa,4.6
+Café do Cerrado,Nordeste,Escura,Coado,4.5
+Café Suave,Sudeste,Clara,Moka,4.1
+Café Aromático,Sul,Média,Expresso,4.9
+Café Puro,Nordeste,Escura,Filtro,4.7
+Café Tradicional,Sudeste,Clara,Cafeteira Italiana,4.8
+Café Gourmet,Sul,Média,Espresso Martini,4.6
+Café Delícia,Nordeste,Escura,Prensa Francesa,4.5
+Café Suave,Sudeste,Clara,Coado,4.1
+Café Aveludado,Sul,Média,Moka,4.9
+Café Intenso,Nordeste,Escura,Expresso,4.7
+Café Brasileiro,Sudeste,Clara,Cafeteira Italiana,4.6
+Café do Cerrado,Sul,Média,Espresso Martini,4.4
+Café Suave,Nordeste,Escura,Prensa Francesa,4.8
+Café Aromático,Sudeste,Clara,Coado,4.6
+Café Tradicional,Sul,Média,Moka,4.4
+Café Premium,Nordeste,Escura,Expresso,4.7
+Café Saboroso,Sudeste,Clara,Filtro,4.3
+Café Delícia,Sul,Média,Cafeteira Italiana,4.8
+Café Suave,Nordeste,Escura,Espresso Martini,4.6
+Café Puro,Sudeste,Clara,Prensa Francesa,4.5
+Café Aveludado,Nordeste,Média,Coado,4.1
+Café Intenso,Sudeste,Escura,Moka,4.9
+Café Brasileiro,Centro-Oeste,Clara,Expresso,4.7
+Café do Cerrado,Sul,Média,Filtro,4.6
+Café Suave,Nordeste,Escura,Cafeteira Italiana,4.4
+Café Tradicional,Sudeste,Clara,Espresso Martini,4.2
+Café Premium,Sul,Média,Prensa Francesa,4.8
+Café Saboroso,Nordeste,Escura,Coado,4.6
+Café Puro,Sudeste,Clara,Moka,4.4
+Café Suave,Sul,Média,Expresso,4.7
+Café Aveludado,Nordeste,Escura,Cafeteira Italiana,4.3
+Café Intenso,Sudeste,Clara,Espresso Martini,4.8
+Café Brasileiro,Sul,Média,Prensa Francesa,4.6
+Café do Cerrado,Nordeste,Escura,Coado,4.5
+Café Suave,Sudeste,Clara,Moka,4.1
+Café Aromático,Sul,Média,Expresso,4.9
+Café Puro,Nordeste,Escura,Filtro,4.7
+Café Tradicional,Sudeste,Clara,Cafeteira Italiana,4.8
+Café Gourmet,Sul,Média,Espresso Martini,4.6
+Café Delícia,Nordeste,Escura,Prensa Francesa,4.5
+Café Suave,Sudeste,Clara,Coado,4.1
+Café Aveludado,Sul,Média,Moka,4.9
+Café Intenso,Nordeste,Escura,Expresso,4.7
+Café Brasileiro,Sudeste,Clara,Cafeteira Italiana,4.6
+Café do Cerrado,Sul,Média,Espresso Martini,4.4
+Café Suave,Nordeste,Escura,Prensa Francesa,4.8
+Café Aromático,Sudeste,Clara,Coado,4.6
+Café Tradicional,Sul,Média,Moka,4.4
+Café Premium,Nordeste,Escura,Expresso,4.7
+Café Saboroso,Sudeste,Clara,Filtro,4.3
+Café Delícia,Sul,Média,Cafeteira Italiana,4.8
+Café Suave,Nordeste,Escura,Espresso Martini,4.6
+Café Puro,Sudeste,Clara,Prensa Francesa,4.5
+Café Aveludado,Nordeste,Média,Coado,4.1
+Café Intenso,Sudeste,Escura,Moka,4.9
+Café Brasileiro,Centro-Oeste,Clara,Expresso,4.7
+Café do Cerrado,Sul,Média,Filtro,4.6
+Café Suave,Nordeste,Escura,Cafeteira Italiana,4.4
+Café Tradicional,Sudeste,Clara,Espresso Martini,4.2
+Café Premium,Sul,Média,Prensa Francesa,4.8
+Café Saboroso,Nordeste,Escura,Coado,4.6
+Café Puro,Sudeste,Clara,Moka,4.4
+Café Suave,Sul,Média,Expresso,4.7
+Café Aveludado,Nordeste,Escura,Cafeteira Italiana,4.3
+Café Intenso,Sudeste,Clara,Espresso Martini,4.8
+Café Brasileiro,Sul,Média,Prensa Francesa,4.6
+Café do Cerrado,Nordeste,Escura,Coado,4.5
+Café Suave,Sudeste,Clara,Moka,4.1
+Café Aromático,Sul,Média,Expresso,4.9
+Café Puro,Nordeste,Escura,Filtro,4.7
+Café Tradicional,Sudeste,Clara,Cafeteira Italiana,4.8
+Café Gourmet,Sul,Média,Espresso Martini,4.6
+Café Delícia,Nordeste,Escura,Prensa Francesa,4.5
+Café Suave,Sudeste,Clara,Coado,4.1
+Café Aveludado,Sul,Média,Moka,4.9
+Café Intenso,Nordeste,Escura,Expresso,4.7
+Café Brasileiro,Sudeste,Clara,Cafeteira Italiana,4.6
+Café do Cerrado,Sul,Média,Espresso Martini,4.4
+Café Suave,Nordeste,Escura,Prensa Francesa,4.8
+Café Aromático,Sudeste,Clara,Coado,4.6
+Café Tradicional,Sul,Média,Moka,4.4
+Café Premium,Nordeste,Escura,Expresso,4.7
+Café Saboroso,Sudeste,Clara,Filtro,4.3
+Café Delícia,Sul,Média,Cafeteira Italiana,4.8
+Café Suave,Nordeste,Escura,Espresso Martini,4.6
+Café Puro,Sudeste,Clara,Prensa Francesa,4.5
+Café Aveludado,Nordeste,Média,Coado,4.1
+Café Intenso,Sudeste,Escura,Moka,4.9
+Café Brasileiro,Centro-Oeste,Clara,Expresso,4.7
+Café do Cerrado,Sul,Média,Filtro,4.6
+Café Suave,Nordeste,Escura,Cafeteira Italiana,4.4
+Café Tradicional,Sudeste,Clara,Espresso Martini,4.2
+Café Premium,Sul,Média,Prensa Francesa,4.8
+Café Saboroso,Nordeste,Escura,Coado,4.6
+Café Puro,Sudeste,Clara,Moka,4.4
+Café Suave,Sul,Média,Expresso,4.7
+Café Aveludado,Nordeste,Escura,Cafeteira Italiana,4.3
+Café Intenso,Sudeste,Clara,Espresso Martini,4.8
+Café Brasileiro,Sul,Média,Prensa Francesa,4.6
+Café do Cerrado,Nordeste,Escura,Coado,4.5
+Café Suave,Sudeste,Clara,Moka,4.1
+Café Aromático,Sul,Média,Expresso,4.9
+Café Puro,Nordeste,Escura,Filtro,4.7
+Café Tradicional,Sudeste,Clara,Cafeteira Italiana,4.8
+Café Gourmet,Sul,Média,Espresso Martini,4.6
+Café Delícia,Nordeste,Escura,Prensa Francesa,4.5
+Café Suave,Sudeste,Clara,Coado,4.1
+Café Aveludado,Sul,Média,Moka,4.9
+Café Intenso,Nordeste,Escura,Expresso,4.7
+Café Brasileiro,Sudeste,Clara,Cafeteira Italiana,4.6
+Café do Cerrado,Sul,Média,Espresso Martini,4.4
+Café Suave,Nordeste,Escura,Prensa Francesa,4.8
+Café Aromático,Sudeste,Clara,Coado,4.6
+Café Tradicional,Sul,Média,Moka,4.4
+Café Premium,Nordeste,Escura,Expresso,4.7
+Café Saboroso,Sudeste,Clara,Filtro,4.3
+Café Delícia,Sul,Média,Cafeteira Italiana,4.8
+Café Suave,Nordeste,Escura,Espresso Martini,4.6
+Café Puro,Sudeste,Clara,Prensa Francesa,4.5
+Café Aveludado,Nordeste,Média,Coado,4.1
+Café Intenso,Sudeste,Escura,Moka,4.9
+Café Brasileiro,Centro-Oeste,Clara,Expresso,4.7
+Café do Cerrado,Sul,Média,Filtro,4.6
+Café Suave,Nordeste,Escura,Cafeteira Italiana,4.4
+Café Tradicional,Sudeste,Clara,Espresso Martini,4.2
+Café Premium,Sul,Média,Prensa Francesa,4.8
+Café Saboroso,Nordeste,Escura,Coado,4.6
+Café Puro,Sudeste,Clara,Moka,4.4
+Café Suave,Sul,Média,Expresso,4.7
+Café Aveludado,Nordeste,Escura,Cafeteira Italiana,4.3
+Café Intenso,Sudeste,Clara,Espresso Martini,4.8
+Café Brasileiro,Sul,Média,Prensa Francesa,4.6
+Café do Cerrado,Nordeste,Escura,Coado,4.5
+Café Suave,Sudeste,Clara,Moka,4.1
+Café Aromático,Sul,Média,Expresso,4.9
+Café Puro,Nordeste,Escura,Filtro,4.7
+Café Tradicional,Sudeste,Clara,Cafeteira Italiana,4.8
+Café Gourmet,Sul,Média,Espresso Martini,4.6
+Café Delícia,Nordeste,Escura,Prensa Francesa,4.5
+Café Suave,Sudeste,Clara,Coado,4.1
+Café Aveludado,Sul,Média,Moka,4.9
+Café Intenso,Nordeste,Escura,Expresso,4.7
+Café Brasileiro,Sudeste,Clara,Cafeteira Italiana,4.6
+Café do Cerrado,Sul,Média,Espresso Martini,4.4
+Café Suave,Nordeste,Escura,Prensa Francesa,4.8
+Café Aromático,Sudeste,Clara,Coado,4.6
+Café Tradicional,Sul,Média,Moka,4.4
+Café Premium,Nordeste,Escura,Expresso,4.7
+Café Saboroso,Sudeste,Clara,Filtro,4.3
+Café Delícia,Sul,Média,Cafeteira Italiana,4.8
+Café Suave,Nordeste,Escura,Espresso Martini,4.6
+Café Puro,Sudeste,Clara,Prensa Francesa,4.5
+Café Aveludado,Nordeste,Média,Coado,4.1
+Café Intenso,Sudeste,Escura,Moka,4.9
+Café Brasileiro,Centro-Oeste,Clara,Expresso,4.7
+Café do Cerrado,Sul,Média,Filtro,4.6
+Café Suave,Nordeste,Escura,Cafeteira Italiana,4.4
+Café Tradicional,Sudeste,Clara,Espresso Martini,4.2
+Café Premium,Sul,Média,Prensa Francesa,4.8
+Café Saboroso,Nordeste,Escura,Coado,4.6
+Café Puro,Sudeste,Clara,Moka,4.4
+Café Suave,Sul,Média,Expresso,4.7
+Café Aveludado,Nordeste,Escura,Cafeteira Italiana,4.3
+Café Intenso,Sudeste,Clara,Espresso Martini,4.8
+Café Brasileiro,Sul,Média,Prensa Francesa,4.6
+Café do Cerrado,Nordeste,Escura,Coado,4.5
+Café Suave,Sudeste,Clara,Moka,4.1
+Café Aromático,Sul,Média,Expresso,4.9
+Café Puro,Nordeste,Escura,Filtro,4.7
+Café Tradicional,Sudeste,Clara,Cafeteira Italiana,4.8
+Café Gourmet,Sul,Média,Espresso Martini,4.6
+Café Delícia,Nordeste,Escura,Prensa Francesa,4.5
+Café Suave,Sudeste,Clara,Coado,4.1
+Café Aveludado,Sul,Média,Moka,4.9
+Café Intenso,Nordeste,Escura,Expresso,4.7
+Café Brasileiro,Sudeste,Clara,Cafeteira Italiana,4.6
+Café do Cerrado,Sul,Média,Espresso Martini,4.4
+Café Suave,Nordeste,Escura,Prensa Francesa,4.8
+Café Aromático,Sudeste,Clara,Coado,4.6
+Café Tradicional,Sul,Média,Moka,4.4
+Café Premium,Nordeste,Escura,Expresso,4.7
+Café Saboroso,Sudeste,Clara,Filtro,4.3
+Café Delícia,Sul,Média,Cafeteira Italiana,4.8
+Café Suave,Nordeste,Escura,Espresso Martini,4.6
+Café Puro,Sudeste,Clara,Prensa Francesa,4.5
+Café Aveludado,Nordeste,Média,Coado,4.1
+Café Intenso,Sudeste,Escura,Moka,4.9
+Café Brasileiro,Centro-Oeste,Clara,Expresso,4.7
+Café do Cerrado,Sul,Média,Filtro,4.6
+Café Suave,Nordeste,Escura,Cafeteira Italiana,4.4
+Café Tradicional,Sudeste,Clara,Espresso Martini,4.2
+Café Premium,Sul,Média,Prensa Francesa,4.8
+Café Saboroso,Nordeste,Escura,Coado,4.6
+Café Puro,Sudeste,Clara,Moka,4.4
+Café Suave,Sul,Média,Expresso,4.7
+Café Aveludado,Nordeste,Escura,Cafeteira Italiana,4.3
+Café Intenso,Sudeste,Clara,Espresso Martini,4.8
+Café Brasileiro,Sul,Média,Prensa Francesa,4.6
+Café do Cerrado,Nordeste,Escura,Coado,4.5
+Café Suave,Sudeste,Clara,Moka,4.1
+Café Aromático,Sul,Média,Expresso,4.9
+Café Puro,Nordeste,Escura,Filtro,4.7
+Café Tradicional,Sudeste,Clara,Cafeteira Italiana,4.8
+Café Gourmet,Sul,Média,Espresso Martini,4.6
+Café Delícia,Nordeste,Escura,Prensa Francesa,4.5
+Café Suave,Sudeste,Clara,Coado,4.1
+Café Aveludado,Sul,Média,Moka,4.9
+Café Intenso,Nordeste,Escura,Expresso,4.7
+Café Brasileiro,Sudeste,Clara,Cafeteira Italiana,4.6
+Café do Cerrado,Sul,Média,Espresso Martini,4.4
+Café Suave,Nordeste,Escura,Prensa Francesa,4.8
+Café Aromático,Sudeste,Clara,Coado,4.6
+Café Tradicional,Sul,Média,Moka,4.4
+Café Premium,Nordeste,Escura,Expresso,4.7
+Café Saboroso,Sudeste,Clara,Filtro,4.3
+Café Delícia,Sul,Média,Cafeteira Italiana,4.8
+Café Suave,Nordeste,Escura,Espresso Martini,4.6
+Café Puro,Sudeste,Clara,Prensa Francesa,4.5
+Café Aveludado,Nordeste,Média,Coado,4.1
+Café Intenso,Sudeste,Escura,Moka,4.9
+Café Brasileiro,Centro-Oeste,Clara,Expresso,4.7
+Café do Cerrado,Sul,Média,Filtro,4.6
+Café Suave,Nordeste,Escura,Cafeteira Italiana,4.4
+Café Tradicional,Sudeste,Clara,Espresso Martini,4.2
+Café Premium,Sul,Média,Prensa Francesa,4.8
+Café Saboroso,Nordeste,Escura,Coado,4.6
+Café Puro,Sudeste,Clara,Moka,4.4
+Café Suave,Sul,Média,Expresso,4.7
+Café Aveludado,Nordeste,Escura,Cafeteira Italiana,4.3
+Café Intenso,Sudeste,Clara,Espresso Martini,4.8
+Café Brasileiro,Sul,Média,Prensa Francesa,4.6
+Café do Cerrado,Nordeste,Escura,Coado,4.5
+Café Suave,Sudeste,Clara,Moka,4.1
+Café Aromático,Sul,Média,Expresso,4.9
+Café Puro,Nordeste,Escura,Filtro,4.7
+Café Tradicional,Sudeste,Clara,Cafeteira Italiana,4.8
+Café Gourmet,Sul,Média,Espresso Martini,4.6
+Café Delícia,Nordeste,Escura,Prensa Francesa,4.5
+Café Suave,Sudeste,Clara,Coado,4.1
+Café Aveludado,Sul,Média,Moka,4.9
+Café Intenso,Nordeste,Escura,Expresso,4.7
+Café Brasileiro,Sudeste,Clara,Cafeteira Italiana,4.6
+Café do Cerrado,Sul,Média,Espresso Martini,4.4
+Café Suave,Nordeste,Escura,Prensa Francesa,4.8
+Café Aromático,Sudeste,Clara,Coado,4.6
+Café Tradicional,Sul,Média,Moka,4.4
+Café Premium,Nordeste,Escura,Expresso,4.7
+Café Saboroso,Sudeste,Clara,Filtro,4.3
+Café Delícia,Sul,Média,Cafeteira Italiana,4.8
+Café Suave,Nordeste,Escura,Espresso Martini,4.6
+Café Puro,Sudeste,Clara,Prensa Francesa,4.5
+Café Aveludado,Nordeste,Média,Coado,4.1
+Café Intenso,Sudeste,Escura,Moka,4.9
+Café Brasileiro,Centro-Oeste,Clara,Expresso,4.7
+Café do Cerrado,Sul,Média,Filtro,4.6
+Café Suave,Nordeste,Escura,Cafeteira Italiana,4.4
+Café Tradicional,Sudeste,Clara,Espresso Martini,4.2
+Café Premium,Sul,Média,Prensa Francesa,4.8
+Café Saboroso,Nordeste,Escura,Coado,4.6
+Café Puro,Sudeste,Clara,Moka,4.4
+Café Suave,Sul,Média,Expresso,4.7
+Café Aveludado,Nordeste,Escura,Cafeteira Italiana,4.3
+Café Intenso,Sudeste,Clara,Espresso Martini,4.8
+Café Brasileiro,Sul,Média,Prensa Francesa,4.6
+Café do Cerrado,Nordeste,Escura,Coado,4.5
+Café Suave,Sudeste,Clara,Moka,4.1
+Café Aromático,Sul,Média,Expresso,4.9
+Café Puro,Nordeste,Escura,Filtro,4.7
+Café Tradicional,Sudeste,Clara,Cafeteira Italiana,4.8
+Café Gourmet,Sul,Média,Espresso Martini,4.6
+Café Delícia,Nordeste,Escura,Prensa Francesa,4.5
+Café Suave,Sudeste,Clara,Coado,4.1
+Café Aveludado,Sul,Média,Moka,4.9
+Café Intenso,Nordeste,Escura,Expresso,4.7
+Café Brasileiro,Sudeste,Clara,Cafeteira Italiana,4.6
+Café do Cerrado,Sul,Média,Espresso Martini,4.4
+Café Suave,Nordeste,Escura,Prensa Francesa,4.8
+Café Aromático,Sudeste,Clara,Coado,4.6
+Café Tradicional,Sul,Média,Moka,4.4
+Café Premium,Nordeste,Escura,Expresso,4.7
+Café Saboroso,Sudeste,Clara,Filtro,4.3
+Café Delícia,Sul,Média,Cafeteira Italiana,4.8
+Café Suave,Nordeste,Escura,Espresso Martini,4.6
+Café Puro,Sudeste,Clara,Prensa Francesa,4.5
+Café Aveludado,Nordeste,Média,Coado,4.1
+Café Intenso,Sudeste,Escura,Moka,4.9
+Café Brasileiro,Centro-Oeste,Clara,Expresso,4.7
+Café do Cerrado,Sul,Média,Filtro,4.6
+Café Suave,Nordeste,Escura,Cafeteira Italiana,4.4
+Café Tradicional,Sudeste,Clara,Espresso Martini,4.2
+Café Premium,Sul,Média,Prensa Francesa,4.8
+Café Saboroso,Nordeste,Escura,Coado,4.6
+Café Puro,Sudeste,Clara,Moka,4.4
+Café Suave,Sul,Média,Expresso,4.7
+Café Aveludado,Nordeste,Escura,Cafeteira Italiana,4.3
+Café Intenso,Sudeste,Clara,Espresso Martini,4.8
+Café Brasileiro,Sul,Média,Prensa Francesa,4.6
+Café do Cerrado,Nordeste,Escura,Coado,4.5
+Café Suave,Sudeste,Clara,Moka,4.1
+Café Aromático,Sul,Média,Expresso,4.9
+Café Puro,Nordeste,Escura,Filtro,4.7
+Café Tradicional,Sudeste,Clara,Cafeteira Italiana,4.8
+Café Gourmet,Sul,Média,Espresso Martini,4.6
+Café Delícia,Nordeste,Escura,Prensa Francesa,4.5
+Café Suave,Sudeste,Clara,Coado,4.1
+Café Aveludado,Sul,Média,Moka,4.9
+Café Intenso,Nordeste,Escura,Expresso,4.7
+Café Brasileiro,Sudeste,Clara,Cafeteira Italiana,4.6
+Café do Cerrado,Sul,Média,Espresso Martini,4.4
+Café Suave,Nordeste,Escura,Prensa Francesa,4.8
+Café Aromático,Sudeste,Clara,Coado,4.6
+Café Tradicional,Sul,Média,Moka,4.4
+Café Premium,Nordeste,Escura,Expresso,4.7
+Café Saboroso,Sudeste,Clara,Filtro,4.3
+Café Delícia,Sul,Média,Cafeteira Italiana,4.8
+Café Suave,Nordeste,Escura,Espresso Martini,4.6
+Café Puro,Sudeste,Clara,Prensa Francesa,4.5
+Café Aveludado,Nordeste,Média,Coado,4.1
+Café Intenso,Sudeste,Escura,Moka,4.9
+Café Brasileiro,Centro-Oeste,Clara,Expresso,4.7
+Café do Cerrado,Sul,Média,Filtro,4.6
+Café Suave,Nordeste,Escura,Cafeteira Italiana,4.4
+Café Tradicional,Sudeste,Clara,Espresso Martini,4.2
+Café Premium,Sul,Média,Prensa Francesa,4.8
+Café Saboroso,Nordeste,Escura,Coado,4.6
+Café Puro,Sudeste,Clara,Moka,4.4
+Café Suave,Sul,Média,Expresso,4.7
+Café Aveludado,Nordeste,Escura,Cafeteira Italiana,4.3
+Café Intenso,Sudeste,Clara,Espresso Martini,4.8
+Café Brasileiro,Sul,Média,Prensa Francesa,4.6
+Café do Cerrado,Nordeste,Escura,Coado,4.5
+Café Suave,Sudeste,Clara,Moka,4.1
+Café Aromático,Sul,Média,Expresso,4.9
+Café Puro,Nordeste,Escura,Filtro,4.7
+Café Tradicional,Sudeste,Clara,Cafeteira Italiana,4.8
+Café Gourmet,Sul,Média,Espresso Martini,4.6
+Café Delícia,Nordeste,Escura,Prensa Francesa,4.5
+Café Suave,Sudeste,Clara,Coado,4.1
+Café Aveludado,Sul,Média,Moka,4.9
+Café Intenso,Nordeste,Escura,Expresso,4.7
+Café Brasileiro,Sudeste,Clara,Cafeteira Italiana,4.6
+Café do Cerrado,Sul,Média,Espresso Martini,4.4
+Café Suave,Nordeste,Escura,Prensa Francesa,4.8
+Café Aromático,Sudeste,Clara,Coado,4.6
+Café Tradicional,Sul,Média,Moka,4.4
+Café Premium,Nordeste,Escura,Expresso,4.7
+Café Saboroso,Sudeste,Clara,Filtro,4.3
+Café Delícia,Sul,Média,Cafeteira Italiana,4.8
+Café Suave,Nordeste,Escura,Espresso Martini,4.6
+Café Puro,Sudeste,Clara,Prensa Francesa,4.5
+Café Aveludado,Nordeste,Média,Coado,4.1
+Café Intenso,Sudeste,Escura,Moka,4.9
+Café Brasileiro,Centro-Oeste,Clara,Expresso,4.7
+Café do Cerrado,Sul,Média,Filtro,4.6
+Café Suave,Nordeste,Escura,Cafeteira Italiana,4.4
+Café Tradicional,Sudeste,Clara,Espresso Martini,4.2
+Café Premium,Sul,Média,Prensa Francesa,4.8
+Café Saboroso,Nordeste,Escura,Coado,4.6
+Café Puro,Sudeste,Clara,Moka,4.4
+Café Suave,Sul,Média,Expresso,4.7
+Café Aveludado,Nordeste,Escura,Cafeteira Italiana,4.3
+Café Intenso,Sudeste,Clara,Espresso Martini,4.8
+Café Brasileiro,Sul,Média,Prensa Francesa,4.6
+Café do Cerrado,Nordeste,Escura,Coado,4.5
+Café Suave,Sudeste,Clara,Moka,4.1
+Café Aromático,Sul,Média,Expresso,4.9
+Café Puro,Nordeste,Escura,Filtro,4.7
+Café Tradicional,Sudeste,Clara,Cafeteira Italiana,4.8
+Café Gourmet,Sul,Média,Espresso Martini,4.6
+Café Delícia,Nordeste,Escura,Prensa Francesa,4.5
+Café Suave,Sudeste,Clara,Coado,4.1
+Café Aveludado,Sul,Média,Moka,4.9
+Café Intenso,Nordeste,Escura,Expresso,4.7
+Café Brasileiro,Sudeste,Clara,Cafeteira Italiana,4.6
+Café do Cerrado,Sul,Média,Espresso Martini,4.4
+Café Suave,Nordeste,Escura,Prensa Francesa,4.8
+Café Aromático,Sudeste,Clara,Coado,4.6
+Café Tradicional,Sul,Média,Moka,4.4
+Café Premium,Nordeste,Escura,Expresso,4.7
+Café Saboroso,Sudeste,Clara,Filtro,4.3
+Café Delícia,Sul,Média,Cafeteira Italiana,4.8
+Café Suave,Nordeste,Escura,Espresso Martini,4.6
+Café Puro,Sudeste,Clara,Prensa Francesa,4.5
+Café Aveludado,Nordeste,Média,Coado,4.1
+Café Intenso,Sudeste,Escura,Moka,4.9
+Café Brasileiro,Centro-Oeste,Clara,Expresso,4.7
+Café do Cerrado,Sul,Média,Filtro,4.6
+Café Suave,Nordeste,Escura,Cafeteira Italiana,4.4
+Café Tradicional,Sudeste,Clara,Espresso Martini,4.2
+Café Premium,Sul,Média,Prensa Francesa,4.8
+Café Saboroso,Nordeste,Escura,Coado,4.6
+Café Puro,Sudeste,Clara,Moka,4.4
+Café Suave,Sul,Média,Expresso,4.7
+Café Aveludado,Nordeste,Escura,Cafeteira Italiana,4.3
+Café Intenso,Sudeste,Clara,Espresso Martini,4.8
+Café Brasileiro,Sul,Média,Prensa Francesa,4.6
+Café do Cerrado,Nordeste,Escura,Coado,4.5
+Café Suave,Sudeste,Clara,Moka,4.1
+Café Aromático,Sul,Média,Expresso,4.9
+Café Puro,Nordeste,Escura,Filtro,4.7
+Café Tradicional,Sudeste,Clara,Cafeteira Italiana,4.8
+Café Gourmet,Sul,Média,Espresso Martini,4.6
+Café Delícia,Nordeste,Escura,Prensa Francesa,4.5
+Café Suave,Sudeste,Clara,Coado,4.1
+Café Aveludado,Sul,Média,Moka,4.9
+Café Intenso,Nordeste,Escura,Expresso,4.7
+Café Brasileiro,Sudeste,Clara,Cafeteira Italiana,4.6
+Café do Cerrado,Sul,Média,Espresso Martini,4.4
+Café Suave,Nordeste,Escura,Prensa Francesa,4.8
+Café Aromático,Sudeste,Clara,Coado,4.6
+Café Tradicional,Sul,Média,Moka,4.4
+Café Premium,Nordeste,Escura,Expresso,4.7
+Café Saboroso,Sudeste,Clara,Filtro,4.3
+Café Delícia,Sul,Média,Cafeteira Italiana,4.8
+Café Suave,Nordeste,Escura,Espresso Martini,4.6
+Café Puro,Sudeste,Clara,Prensa Francesa,4.5
+Café Aveludado,Nordeste,Média,Coado,4.1
+Café Intenso,Sudeste,Escura,Moka,4.9
+Café Brasileiro,Centro-Oeste,Clara,Expresso,4.7
+Café do Cerrado,Sul,Média,Filtro,4.6
+Café Suave,Nordeste,Escura,Cafeteira Italiana,4.4
+Café Tradicional,Sudeste,Clara,Espresso Martini,4.2
+Café Premium,Sul,Média,Prensa Francesa,4.8
+Café Saboroso,Nordeste,Escura,Coado,4.6
+Café Puro,Sudeste,Clara,Moka,4.4
+Café Suave,Sul,Média,Expresso,4.7
+Café Aveludado,Nordeste,Escura,Cafeteira Italiana,4.3
+Café Intenso,Sudeste,Clara,Espresso Martini,4.8
+Café Brasileiro,Sul,Média,Prensa Francesa,4.6
+Café do Cerrado,Nordeste,Escura,Coado,4.5
+Café Suave,Sudeste,Clara,Moka,4.1
+Café Aromático,Sul,Média,Expresso,4.9
+Café Puro,Nordeste,Escura,Filtro,4.7
+Café Tradicional,Sudeste,Clara,Cafeteira Italiana,4.8
+Café Gourmet,Sul,Média,Espresso Martini,4.6
+Café Delícia,Nordeste,Escura,Prensa Francesa,4.5
+Café Suave,Sudeste,Clara,Coado,4.1
+Café Aveludado,Sul,Média,Moka,4.9
+Café Intenso,Nordeste,Escura,Expresso,4.7
+Café Brasileiro,Sudeste,Clara,Cafeteira Italiana,4.6
+Café do Cerrado,Sul,Média,Espresso Martini,4.4
+Café Suave,Nordeste,Escura,Prensa Francesa,4.8
+Café Aromático,Sudeste,Clara,Coado,4.6
+Café Tradicional,Sul,Média,Moka,4.4
+Café Premium,Nordeste,Escura,Expresso,4.7
+Café Saboroso,Sudeste,Clara,Filtro,4.3
+Café Delícia,Sul,Média,Cafeteira Italiana,4.8
+Café Suave,Nordeste,Escura,Espresso Martini,4.6
+Café Puro,Sudeste,Clara,Prensa Francesa,4.5
+Café Aveludado,Nordeste,Média,Coado,4.1
+Café Intenso,Sudeste,Escura,Moka,4.9
+Café Brasileiro,Centro-Oeste,Clara,Expresso,4.7
+Café do Cerrado,Sul,Média,Filtro,4.6
+Café Suave,Nordeste,Escura,Cafeteira Italiana,4.4
+Café Tradicional,Sudeste,Clara,Espresso Martini,4.2
+Café Premium,Sul,Média,Prensa Francesa,4.8
+Café Saboroso,Nordeste,Escura,Coado,4.6
+Café Puro,Sudeste,Clara,Moka,4.4
+Café Suave,Sul,Média,Expresso,4.7
+Café Aveludado,Nordeste,Escura,Cafeteira Italiana,4.3
+Café Intenso,Sudeste,Clara,Espresso Martini,4.8
+Café Brasileiro,Sul,Média,Prensa Francesa,4.6
+Café do Cerrado,Nordeste,Escura,Coado,4.5
+Café Suave,Sudeste,Clara,Moka,4.1
+Café Aromático,Sul,Média,Expresso,4.9
+Café Puro,Nordeste,Escura,Filtro,4.7
+Café Tradicional,Sudeste,Clara,Cafeteira Italiana,4.8
+Café Gourmet,Sul,Média,Espresso Martini,4.6
+Café Delícia,Nordeste,Escura,Prensa Francesa,4.5
+Café Suave,Sudeste,Clara,Coado,4.1
+Café Aveludado,Sul,Média,Moka,4.9
+Café Intenso,Nordeste,Escura,Expresso,4.7
+Café Brasileiro,Sudeste,Clara,Cafeteira Italiana,4.6
+Café do Cerrado,Sul,Média,Espresso Martini,4.4
