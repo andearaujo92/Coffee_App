@@ -4,7 +4,7 @@ import streamlit as st
 import plotly
 import plotly.express as px
 
-df = pd.read_csv("C:\\Users\\f41088049885\\Downloads\\Estudos\\base_cafe_brasil.txt")
+df = pd.read_csv("base_cafe_brasil.txt")
 
 st.set_page_config("Dashboard Teste", layout="wide")
 
