@@ -10,7 +10,7 @@ st.set_page_config("Dashboard Teste", layout="wide")
 
 st.sidebar.title("Filtros")
 
-st.header("Dashboard de Avaliação de Café")
+st.markdown("# Dashboard de Avaliação de Café")
 regiao = st.sidebar.multiselect("Região",df['Região do Brasil'].unique(), df['Região do Brasil'].unique())
 marca = st.sidebar.multiselect('Marca',df['Marca'].unique(), df["Marca"].unique())
 ttorra = st.sidebar.multiselect('Tipo de Torra',df['Tipo de Torra'].unique(), df['Tipo de Torra'].unique())
@@ -22,10 +22,12 @@ df_agrupado = df_filtrado.groupby(agrupar_por)['Avaliação do Consumidor'].mean
 df_agrupado['Avaliação do Consumidor'] = round(df_agrupado['Avaliação do Consumidor'], 2)
 
 col1, col2 = st.columns(2)
+col1.markdown('### Tabela de dados')
 col1.dataframe(df_filtrado)
+col2.markdown('### Tabela de dados agrupada')
 col2.dataframe(df_filtrado.groupby(agrupar_por)['Avaliação do Consumidor'].mean())
 
-
+st.markdown('## Comparativo de Avaliações')
 st.plotly_chart(px.bar(df_agrupado, x = df_agrupado[agrupar_por], y = df_agrupado['Avaliação do Consumidor'], 
                        color = df_agrupado[agrupar_por].unique(), text_auto= True)
                 ,use_container_width=True)
